@@ -8,11 +8,66 @@ body {
   color: #393d41;
 }
 header {
-  text-align: center;
+  width: 100%;
   background-color: black;
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
 header img {
   width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+#title-corso h1 {
+  color: #25a2c3;
+  font-size: 2em;
+  line-height: 1;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+#title-corso {
+  background-image: url(../images/banner.jpg);
+  text-align: center;
+  padding: 6vh 3vh 3vh 3vh;
+}
+#title-corso h2 {
+  margin: 4vh 0vh 4vh 0vh;
+}
+#title-corso button {
+  background-color: #f04c2f;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+  padding: 1rem 3rem 1rem 3rem;
+  border-radius: 7px;
+}
+#title-centrale {
+  padding: 5vh 3vh 4vh 3vh;
+  text-align: center;
+}
+.sottotitoli-centrale h3 {
+  color: #25a2c3;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.sottotitoli-centrale img {
+  border-radius: 100%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+.sezione-arancione {
+  background-color: #f04c2f;
+  text-align: center;
+  color: white;
+  padding: 5vh 1vh 5vh 1vh;
+}
+.sezione-arancione h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+}
+#primo {
+  font-style: italic;
 }
